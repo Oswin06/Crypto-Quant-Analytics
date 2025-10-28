@@ -100,7 +100,7 @@ streamlit run src/frontend/app.py
 ## 📁 Project Structure
 
 ```
-GemsCap_Project/
+Quant_Analytics/
 ├── src/
 │   ├── backend/
 │   │   ├── api.py          # FastAPI backend server
